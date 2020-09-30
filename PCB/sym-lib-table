@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name PCB_design-eagle-import)(type Legacy)(uri ${KIPRJMOD}/PCB_design-eagle-import.lib)(options "")(descr ""))
+)
